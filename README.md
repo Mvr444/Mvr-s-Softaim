@@ -3,6 +3,7 @@ This tool is designed to help improve your aim in Fortnite, resulting in smoothe
 
 # Installation
 Windows https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+and make sure you click add to path
 download the repository to your machine.
 Extract the files
 
