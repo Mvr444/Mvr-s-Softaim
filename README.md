@@ -8,8 +8,7 @@ download the repository to your machine.
 Extract the files
 
 # Usage
-Start Fortnite.
-Wait for the optimization process to complete.
+Start Fortnite and wait untill you are in lobby
 Start playing Fortnite and enjoy your aim!
 
 # Notes
